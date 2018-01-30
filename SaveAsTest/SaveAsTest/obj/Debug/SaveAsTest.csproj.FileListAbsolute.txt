@@ -1,9 +1,0 @@
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\obj\Debug\SaveAsTest.csprojResolveAssemblyReference.cache
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\obj\Debug\SaveAsTest.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\bin\SaveAsTest.dll.config
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\bin\SaveAsTest.dll
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\bin\SaveAsTest.pdb
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\obj\Debug\SaveAsTest.dll
-\\Mac\Home\Documents\GitHub\Test_PC\SaveAsTest\SaveAsTest\obj\Debug\SaveAsTest.pdb
