@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Console_CS_SwitchStatements
+namespace Console3_CS_Switch_Case
 {
     class Program
     {
         static void Main(string[] args)
         {
 
-// Switch statements only check for a specific value.
+            // Switch statements only check for a specific value.
             //    They will NOT work for < or > statements
             //    It has to equate to == values
 
@@ -47,11 +47,11 @@ namespace Console_CS_SwitchStatements
                 // Java allows "fall through" - Not C#
 
 
-    // ********* cool note if deleted content such as: *********
-                        //case 1:
-                        //case 2:
-                        //    {   Console.WriteLine("Switch logic says you picked dog.  Ick. 50 points.");
-                        //        break;  }
+                // ********* cool note if deleted content such as: *********
+                //case 1:
+                //case 2:
+                //    {   Console.WriteLine("Switch logic says you picked dog.  Ick. 50 points.");
+                //        break;  }
                 // if 1 OR 2 is entered - Case 2 output is activated
                 // if 2 info deleted - 3 value would apply - it doesn't have to be empty at the start.
 
@@ -88,7 +88,7 @@ namespace Console_CS_SwitchStatements
             Console.WriteLine("Quickie conditional: ");
             Console.WriteLine(" ");
 
-// quickie conditional: (conditional is an if statment on the fly ...)
+            // quickie conditional: (conditional is an if statment on the fly ...)
             int x = 14;     // IRL an input or var
             int sgBday = x;
             int y = 16;     // IRL an input or var
@@ -117,8 +117,8 @@ namespace Console_CS_SwitchStatements
             Console.WriteLine("Quickie while loop: ");
             Console.WriteLine(" ");
 
-// ===============  quickie WHILE and FOR LOOPS: 
-            int A = 0;   
+            // ===============  quickie WHILE and FOR LOOPS: 
+            int A = 0;
             while (A < 5)
             {
                 Console.WriteLine("while looping ...");

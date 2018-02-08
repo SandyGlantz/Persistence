@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Console_CS_Methods
+namespace Console4_CS_Methods_IntroPassRefValue
 {
     class Program
     {
@@ -29,8 +29,8 @@ namespace Console_CS_Methods
 
 
 
-// ========  !!!  ========  passing by reference vs. passing by value ========
-            
+            // ========  !!!  ========  passing by reference vs. passing by value ========
+
 
             // Pass by VALUE =================================================
             // Structs, basic data types, many methods, are passed by value
@@ -137,3 +137,4 @@ namespace Console_CS_Methods
 
     }  // end class Program
 }  // end namespace
+

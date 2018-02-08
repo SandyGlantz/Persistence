@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Console_CS_SwitchStatements")]
+[assembly: AssemblyTitle("Console4_CS_Methods-IntroPassRefValue")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Console_CS_SwitchStatements")]
+[assembly: AssemblyProduct("Console4_CS_Methods-IntroPassRefValue")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("74d64d56-605f-409b-9f91-a2d6191e4a34")]
+[assembly: Guid("3e94baf0-7027-4db5-bc19-a753f574088d")]
 
 // Version information for an assembly consists of the following four values:
 //

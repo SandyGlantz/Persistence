@@ -111,7 +111,7 @@ namespace TryingOutConsole
             // using the remainder
             Console.WriteLine(" ");
             // to get an int out:
-            Console.WriteLine("Enter total tme in minutes only");
+            Console.WriteLine("Enter total time in minutes only");
             int totalMinutes = int.Parse(Console.ReadLine());
             int hours = totalMinutes / 60;
             int minutes = totalMinutes % 60; // % called modulus = remainder
