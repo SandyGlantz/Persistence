@@ -12,7 +12,7 @@ namespace TryingOutConsole
     {
         static void Main(string[] args)
         {
-            // Main is similar to Page_Load in asp.net
+            // Main is similar to Page_Load in asp.net ...
             string helloWorld = "Hello to the Console World of C#";
             int luckyNumber = 32;
 
